@@ -1,0 +1,13 @@
+streamlit
+beautifulsoup4
+selenium
+langchain
+langchain_ollama
+python-dotenv
+lxml
+html5lib
+pandas
+python-docx
+fpdf
+xlsxwriter
+openpyxl
